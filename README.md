@@ -3,7 +3,7 @@
 <h3 align="center">A passionate fULL STACK developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhgupta2004&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhgupta2004" /> </p>
-<img  align="left" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
+<img  align="left" width:95 src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishabhgupta2004" alt="rishabhgupta2004" /></a> </p>
 
