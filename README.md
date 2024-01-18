@@ -1,4 +1,4 @@
-<img src="/rishabhbanner.jpg">
+<img backgroundcolor=gradientbluee src="/rishabhbanner.jpg">
 <h1 align="center">Hi 👋, I'm RISHABH GUPTA</h1>
 <h3 align="center">A passionate fULL STACK developer from India</h3>
 
