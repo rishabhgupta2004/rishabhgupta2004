@@ -13,7 +13,7 @@
 <img  align="right" width="650" height=325 border=10 src="https://devtechnosys.com/insights/wp-content/uploads/2021/07/full-stack-development.gif">
 <h3 align="left" font="50">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/rishabh-gupta-7a55a1258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishabh gupta" height="50" width="60" /></a>
+<a href="https://www.linkedin.com/in/rishabh-gupta-7a55a1258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishabh gupta" height="30" width="40" /></a>
 <a href="https://www.instagram.com/rishabhofficial2410?igsh=Nm1lZGR5Znl1bGRx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishabh gupta" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/rishabh78z9qz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rishabh78z9qz" height="30" width="40" /></a>
 </p>
