@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **react ,sql,**
 
 - 📫 How to reach me **rishabhgupta78000@gmail.com**
-<img  align="right" width="350" height=205 border=5 src="https://devtechnosys.com/insights/wp-content/uploads/2021/07/full-stack-development.gif">
+<img  align="right" width="450" height=205 border=5 src="https://devtechnosys.com/insights/wp-content/uploads/2021/07/full-stack-development.gif">
 <h3 align="left" font="50">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/rishabh-gupta-7a55a1258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishabh gupta" height="30" width="40" /></a>
